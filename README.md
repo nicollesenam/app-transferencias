@@ -1,7 +1,6 @@
 # Register Transactions APP
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
-You can access it by [Github Pages](https://nicollesenam.github.io/app-transferencias/) without doing any clone.
 
 ## Development server
 
