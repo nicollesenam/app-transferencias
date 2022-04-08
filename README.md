@@ -49,3 +49,6 @@ It's an app where you can add a value and a destiny account to transfer to by cl
 ## How execute
 - Write the following command in the terminal <code>ng serve --open</code> to open the project in localhost
 
+## Preview the app!
+![App - Google Chrome 2022-04-08 13-27-10](https://user-images.githubusercontent.com/82225853/162492228-af8d6b71-864c-4026-8f12-af1738cacd34.gif)
+
